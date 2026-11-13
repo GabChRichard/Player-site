@@ -1,0 +1,203 @@
+/* Small sci-fi touches on top of Material's slate theme. */
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #0f0d17;
+  --md-code-bg-color: #1a1626;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  letter-spacing: 0.02em;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+}
+
+/* Tagline under a page title: add {.tagline} after a paragraph. */
+.md-typeset .tagline {
+  font-size: 1.1em;
+  font-style: italic;
+  opacity: 0.8;
+  border-left: 3px solid var(--md-accent-fg-color);
+  padding-left: 0.8em;
+}
+
+/* Read-aloud text: add {.read-aloud} after a paragraph. */
+.md-typeset .read-aloud {
+  background: color-mix(in srgb, var(--md-accent-fg-color) 10%, transparent);
+  border-radius: 4px;
+  padding: 0.6em 1em;
+  font-style: italic;
+}
+
+/* ---------- Timeline page ---------- */
+
+/* Vertical timeline: wrap a bullet list in <div class="timeline" markdown>.
+   Each item starts with **year**; add { .major }, { .campaign } or { #ag-41 } at the end. */
+.md-typeset .timeline ul {
+  list-style: none;
+  margin: 1.2em 0 2em;
+  padding: 0 0 0 6.2rem;
+  position: relative;
+}
+
+.md-typeset .timeline ul::before {
+  content: "";
+  position: absolute;
+  left: 5.55rem;
+  top: 0.4rem;
+  bottom: 0.4rem;
+  width: 2px;
+  background: color-mix(in srgb, var(--md-primary-fg-color) 55%, transparent);
+}
+
+.md-typeset .timeline li {
+  position: relative;
+  margin: 0 0 1.1em;
+  padding: 0;
+}
+
+/* Year badge, left of the spine */
+.md-typeset .timeline li > strong:first-child {
+  position: absolute;
+  left: -6.2rem;
+  width: 4.9rem;
+  text-align: right;
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  color: var(--md-default-fg-color--light);
+  white-space: nowrap;
+}
+
+/* Dot on the spine */
+.md-typeset .timeline li::before {
+  content: "";
+  position: absolute;
+  left: -0.95rem;
+  top: 0.35em;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  background: var(--md-primary-fg-color);
+  box-shadow: 0 0 0 3px var(--md-default-bg-color);
+}
+
+.md-typeset .timeline li.major::before {
+  left: -1.1rem;
+  width: 1rem;
+  height: 1rem;
+  top: 0.2em;
+  background: var(--md-default-bg-color);
+  border: 3px solid var(--md-primary-fg-color);
+}
+
+.md-typeset .timeline li.major > strong:first-child {
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset .timeline li.campaign::before {
+  border-radius: 1px;
+  transform: rotate(45deg);
+  background: var(--md-accent-fg-color);
+}
+
+.md-typeset .timeline li:target {
+  background: color-mix(in srgb, var(--md-accent-fg-color) 12%, transparent);
+  border-radius: 4px;
+}
+
+/* Era span under each heading */
+.md-typeset .era-span {
+  margin-top: -0.6em;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* To-scale ribbon: wrapper scrolls sideways on small screens, the page does not. */
+.md-typeset .tl-scroll {
+  overflow-x: auto;
+  margin: 1.2em 0 0.4em;
+  padding-bottom: 0.4rem;
+}
+
+.md-typeset .tl-ribbon {
+  position: relative;
+  min-width: 1400px;
+  height: 6.4rem;
+  margin: 0 0.6rem;
+}
+
+.md-typeset .tl-band {
+  position: absolute;
+  top: 0;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  font-size: 0.65rem;
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+  background: color-mix(in srgb, var(--md-primary-fg-color) calc(var(--a) * 1%), transparent);
+  border-right: 2px solid var(--md-default-bg-color);
+}
+
+.md-typeset .tl-dot {
+  position: absolute;
+  left: calc(var(--y) / 325 * 100%);
+  top: calc(1.9rem + var(--r) * 0.95rem);
+  width: 0.7rem;
+  height: 0.7rem;
+  margin-left: -0.35rem;
+  border-radius: 50%;
+  background: var(--md-primary-fg-color);
+  border: 2px solid var(--md-default-bg-color);
+  box-sizing: content-box;
+}
+
+.md-typeset .tl-dot.major {
+  background: var(--md-default-bg-color);
+  border-color: var(--md-primary-fg-color);
+}
+
+.md-typeset .tl-dot:hover,
+.md-typeset .tl-dot:focus {
+  background: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+  z-index: 2;
+}
+
+.md-typeset .tl-axis {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .tl-legend {
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .tl-legend span {
+  white-space: nowrap;
+  margin-right: 1.2em;
+}
+
+.md-typeset .tl-legend i {
+  display: inline-block;
+  width: 0.7em;
+  height: 0.7em;
+  margin-right: 0.35em;
+  border-radius: 50%;
+  background: var(--md-primary-fg-color);
+}
+
+.md-typeset .tl-legend i.m {
+  background: var(--md-default-bg-color);
+  border: 2px solid var(--md-primary-fg-color);
+  box-sizing: border-box;
+}

@@ -1,0 +1,73 @@
+# Player site for the campaign. Player-facing pages only.
+# Preview:  mkdocs serve
+# Build:    mkdocs build --strict   -> site/
+
+site_name: Player Guide
+site_description: A Starfinder 2e campaign for 4 players, levels 1–20
+docs_dir: docs
+site_dir: site
+copyright: >-
+  This website uses trademarks and/or copyrights owned by Paizo Inc., used under
+  Paizo's <a href="https://paizo.com/licenses/communityuse">Community Use Policy</a>.
+  We are expressly prohibited from charging you to use or access this content.
+  This website is not published, endorsed, or specifically approved by Paizo.
+  Questions? Ask your GM.
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/rocket-launch
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - content.tabs.link
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - Players:
+      - Player Primer: players/primer.md
+      - Timeline: players/timeline.md
+      - Factions: players/factions.md
+      - Galaxy: players/galaxy.md
+      # - Pre-Campaign Meeting: players/pre-campaign-meeting.md
+      # - Player Form: players/form.md
+      # - Session Zero: players/session-zero.md
+      - Homebrew Rules: players/homebrew.md
+  - License: license.md
