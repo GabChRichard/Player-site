@@ -7,7 +7,7 @@ What your characters know, or believe they know, at the start of the campaign.
 The campaign uses the standard Starfinder setting: the Pact Worlds, the Veskarium, Drift travel, the Vast, and a past nobody remembers from before **the Gap**. The **Federation** is a homebrew power that sits alongside the canon factions.
 
 !!! note "Canon vs. homebrew"
-    Anything in the Starfinder 2e books is true unless your GM says otherwise. The Federation, the Renegades and the colony are made up for this campaign. The Swarm is canon, but in this campaign it's closer, and bigger than the books describe.
+    Anything in the Starfinder 2e books is true unless your GM says otherwise. The Federation and the Renegades are made up for this campaign. The Swarm is canon, but in this campaign it's closer, and bigger than the books describe.
 
 ## The Swarm
 
@@ -18,10 +18,10 @@ The campaign uses the standard Starfinder setting: the Pact Worlds, the Veskariu
 
 ## The Federation
 
-- **What people see:** A spacefaring state that runs like a corporation: branded colonies, service contracts, friendly language. It builds colonies, keeps trade lanes safe and runs the most disciplined navy in its sector.
+- **What people see:** A spacefaring state that runs like a corporation: branded worlds, service contracts, friendly language. It keeps trade lanes safe and runs the most disciplined navy in its sector.
 - **What it says it stands for:** Order, progress and a future in which mortals stop waiting on silent gods to save them, from the Swarm or anything else.
 - **What its convicts know:** Federation justice is fast. It doesn't sentence you to years. It sentences you to a **debt**, and sends you somewhere to work it off.
-- **What is really happening** The colonies are covered slave encampment and all of their war effort are bought on sweat and blood 
+- **What is really happening** Its order and its war effort are bought with sweat and blood.
 
 ## The Renegades
 
@@ -32,7 +32,7 @@ The campaign uses the standard Starfinder setting: the Pact Worlds, the Veskariu
 ## Game start 
 
 - You were capture by the federation and your last sight is a massive transport ship.
-- All is looking as if you are about to be sent to a colony 
+- Nobody will tell you where it's taking you.
 
 ## Who you are
 

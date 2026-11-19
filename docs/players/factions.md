@@ -14,15 +14,15 @@ The powers that decide how this campaign goes. They're covered in more depth in 
 
 - **What it is:** An insect hive mind that devours worlds and turns what it eats into new weapons.
 - **What it wants:** Nobody has found anything it wants besides more. It doesn't negotiate.
-- **Where it is:** Advancing out of the Vast, through the Krethiskar subcolony. See [the Wall](galaxy.md#the-wall).
+- **Where it is:** Advancing out of the Vast. 
 - **Who fights it:** The Federation fleet, the Pact Worlds and the Veskarium, none of them well enough.
 
 ### The Federation
 *Campaign*
 
-- **What it is:** A spacefaring state that runs like a corporation: branded colonies, service contracts, friendly language.
+- **What it is:** A spacefaring state that runs like a corporation: branded worlds, service contracts, friendly language.
 - **What it wants:** Order, progress, and a future in which mortals stop waiting on silent gods to save them.
-- **Who it deals with:** Convicts and debtors, mostly. It sentences you to a **debt**, then sends you to a colony to work it off.
+- **Who it deals with:** Convicts and debtors, mostly. It sentences you to a **debt**, then sends you somewhere to work it off.
 - **Who it fights:** The Swarm on the Wall, and the Renegades everywhere else.
 
 ### The Renegades

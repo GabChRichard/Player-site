@@ -96,10 +96,48 @@
   color: var(--md-default-fg-color);
 }
 
+/* Campaign (homebrew, non-canon) entries: amber bar + tint, amber dashed date, "Campaign" pill, diamond dot. */
+.md-typeset .timeline li.campaign {
+  padding: 0.3em 0.8em;
+  border-radius: 0 4px 4px 0;
+  background: color-mix(in srgb, var(--md-accent-fg-color) 8%, transparent);
+  box-shadow: inset 3px 0 0 var(--md-accent-fg-color);
+}
+
+/* Padding shifts the li's edge left of the text, so offset the dot and date to stay on the spine. */
 .md-typeset .timeline li.campaign::before {
+  left: calc(-0.95rem - 0.8em);
+  top: calc(0.35em + 0.3em);
   border-radius: 1px;
   transform: rotate(45deg);
   background: var(--md-accent-fg-color);
+}
+
+.md-typeset .timeline li.campaign > strong:first-child {
+  left: calc(-6.2rem - 0.8em);
+  color: var(--md-accent-fg-color);
+  text-decoration: underline dashed;
+  text-underline-offset: 0.25em;
+}
+
+/* Pill: automatic on campaign entries (before the title), or <span class="tl-tag">Campaign</span> in the legend. */
+.md-typeset .timeline li.campaign > strong:nth-of-type(2)::before {
+  content: "Campaign";
+}
+
+.md-typeset .tl-tag,
+.md-typeset .timeline li.campaign > strong:nth-of-type(2)::before {
+  display: inline-block;
+  margin-right: 0.5em;
+  padding: 0.05em 0.55em;
+  border-radius: 999px;
+  background: var(--md-accent-fg-color);
+  color: #000;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  vertical-align: 0.1em;
 }
 
 .md-typeset .timeline li:target {

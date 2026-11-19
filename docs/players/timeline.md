@@ -2,10 +2,9 @@
 
 A history of the galaxy, as your character would know it. Dates use **AG** (After the Gap), the Pact Worlds calendar that most of the sector uses.
 
-!!! note "Canon vs. campaign"
-    Everything here is canon Starfinder, except the last section, which is the state of the world when the campaign begins. Your GM may add to it as the game goes on.
+<span class="tl-tag">Campaign</span> Highlighted entries, with an amber date and bar, are campaign events and non-canon.
 
-<div class="tl-scroll">
+<!-- <div class="tl-scroll">
 <div class="tl-ribbon">
   <div class="tl-band" style="left:0;width:11.08%;--a:30">First years</div>
   <div class="tl-band" style="left:11.08%;width:78.46%;--a:55">The Silent War (36 to 291 AG)</div>
@@ -39,7 +38,7 @@ A history of the galaxy, as your character would know it. Dates use **AG** (Afte
   <div class="tl-axis"><span>0 AG</span><span>100</span><span>200</span><span>300</span><span>325 AG</span></div>
 </div>
 </div>
-<p class="tl-legend"><span><i></i>Canon event</span><span><i class="m"></i>Turning point</span><span>Drawn to scale. Scroll sideways, and select a dot to jump to its entry.</span></p>
+<p class="tl-legend"><span><i></i>Canon event</span><span><i class="m"></i>Turning point</span><span>Drawn to scale. Scroll sideways, and select a dot to jump to its entry.</span></p> -->
 
 ## Before the Gap
 
@@ -55,6 +54,8 @@ Little is known. Golarion was a world with living gods, and the Drift had not be
   {: .major #ag-0 }
 - **3 AG** **Triune's Signal.** The Signal reaches every civilization in the universe and leads to the Drift, and with it, faster-than-light travel. The galaxy opens up.
   {: .major #ag-3 }
+- **4 AG** **The Federation starts it's expansion.** The Federation finds it's creed and expand to what will become the Federation Space.
+  {: .campaign }
 - **5 AG** **The Starfinder Society forms.** It starts as a tight-knit community helping its neighbors survive the chaos on Absalom Station. By 10 AG it elects its first Forum and begins funding expeditions.
   {: #ag-5 }
 - **7 AG** **The Magefire Assault.** Eoxians attack Absalom Station in one of the earliest assaults on the new capital.
@@ -80,11 +81,12 @@ Little is known. Golarion was a world with living gods, and the Drift had not be
   {: .major #ag-41 }
 - **67 AG** **The Stardust Plague.** A plague sweeps the Pact Worlds and kills millions. The Corpse Fleet makes its first raid. Public opinion turns against exploring distant space.
   {: #ag-67 }
+- **79 AG** **Heat rises in Near Space.** Territory disputes begin between the Federation and the Veskarium 
+  {: .campaign }
 - **83 AG** **The shirrens break free.** The shirren species escapes the Swarm's hive mind.
   {: #ag-83 }
-- **162 AG** **The Battle of the Amethyst Transcendence.** A major engagement of the Silent War era. The Galaxy Guide lists it without detail.
+- **162 AG** **The Battle of the Amethyst Transcendence.** A major engagement of the Silent War era. 
   {: #ag-162 }
-- **220 AG** **The Mechanizers split.** The Mechanizers break away from Singularitism and go their own way on the question of machine minds.
   {: #ag-220 }
 - **240 AG** **The *Idari* arrives.** The vast colony ship reaches the Pact Worlds, looking for its intended destination, the planet Akiton.
   {: #ag-240 }
@@ -103,14 +105,14 @@ Little is known. Golarion was a world with living gods, and the Drift had not be
 
 - **291 AG** **The Swarm Wars begin.** The Swarm attacks the Pact Worlds and the Veskarium at the same time. Both empires end the Silent War, more than two centuries old, and ally to drive it off. The armistice holds, but it's uneasy.
   {: .major #ag-291 }
-- **Recently** **Attack of the Swarm!** A Swarm offensive hits the Suskillon system, in the Vast. Heroes break it and kill the **God-Host**, a Swarm entity that tried to become omnipotent by absorbing the memories of the shirren exodus. *(Canon, but undated.)*
-  {: #ag-suskillon }
-- **302 AG** **Near Space heats up.** Territory disputes begin between the Marixah Republic and the Gideron Authority.
-  {: #ag-302 }
+- **304 AG** **The Federation Ascension begins.** The Federation massive fleet and political power reaches a peak and their presence is felt on most of the galaxy. 
+  {: .campaign }
+- **314 AG** **The Renegades are created.** As a mean of opposing Federation tyranny a group of rebel cell unites. 
+  {: .campaign }
+- **315 AG** **The Federation Ascension is stopped by the Renegades.** The Renegades led a strategic assault on the Federation Station and severely weakened their power. 
+  {: .campaign }
 - **317 AG** **The Scoured Stars incident.** Starfinder Society explorers in the Scoured Stars stir up trouble that politicians still resent.
   {: #ag-317 }
-- **318 AG** **Acalata annexed.** The Gideron Authority takes the Acalata system from the Marixah Republic.
-  {: #ag-318 }
 - **319 AG** **Kadrical awakens.** A dormant deity of the Scoured Stars wakes.
   {: #ag-319 }
 
@@ -128,7 +130,7 @@ Little is known. Golarion was a world with living gods, and the Drift had not be
   {: #ag-323 }
 - **324 AG** **A bad year.** The Pact Worlds planet **Aucturn** hatches, a godling called **the Newborn** emerges and the Gelid Edge forms. Imperator Iorian of the Azlanti Star Empire is assassinated and Imperator Yridela flees into exile. The Battle for Kehtaria starts the Azlanti-Veskarium war. Those Who Call send a transmission to the First Ones.
   {: .major #ag-324 }
-- **325 AG** **Now.** A mysterious vessel crashes into Akiton. Pulonis declares independence from the Veskarium and joins the Pact Worlds after a split televised vote. The Tomb of the Insatiable Eclipse opens on Eox. This is the year most references use as "now".
+- **325 AG** **Now.** A mysterious vessel crashes into Akiton. Pulonis declares independence from the Veskarium and joins the Pact Worlds after a split televised vote. The Tomb of the Insatiable Eclipse opens on Eox. 
   {: .major #ag-325 }
 
 </div>
@@ -141,13 +143,9 @@ These events are fresh, and they're all anyone talks about.
 
 <div class="timeline" markdown>
 
-- **Now** **The fall of Krethiskar.** Explorers found a lost planet and woke a dormant Swarm subcolony. It didn't just consume the world. It stripped its defenses and turned it into an incubator for hive-mind troops.
-  {: .campaign }
-- **Now** **The Szandite Collective invasion.** The Krethiskar subcolony is now at war with the peaceful worlds of the Collective. It's mutating quickly.
-  {: .campaign }
 - **Now** **The Wall.** Federation broadcasts promise that the Wall holds. Refugees say it's falling back. Everyone expects the subcolony to spill into Near Space, and to threaten the Pact Worlds and the Veskarium again.
   {: .campaign }
-- **Now** **The Federation.** A homebrew power that presents as a corporation and has built its power on colonies, contracts and the most disciplined navy in its sector.
+- **Now** **The Federation.** A homebrew power that presents as a corporation and has built its power on contracts, debt and the most disciplined navy in its sector.
   {: .campaign }
 
 </div>

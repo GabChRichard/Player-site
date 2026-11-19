@@ -3,7 +3,7 @@
 *A Starfinder Second Edition campaign · 4 players · levels 1–20*
 {.tagline}
 
-You were nobody. A balance owed to a Federation "reformatory city", cracking data on a moon that never turns its face from the sun.
+You were nobody. A balance owed to the Federation, a number on a prisoner transport, headed somewhere nobody would name.
 
 Then the Renegades came, and the sky opened up.
 
@@ -17,13 +17,13 @@ Then the Renegades came, and the sky opened up.
 | **Party** | 4 player characters, levels 1 → 20 |
 | **Tone** | Space pirates, smugglers and rogue agents. Desperate, funny, sometimes tragic. |
 | **Pillars** | Exploration · Warfare · Mysteries · Scum & Villainy, with **roleplay at the core** |
-| **Starting point** | Debtors in a Federation company-town prison, on the day everything burns |
+| **Starting point** | Debtors sentenced by the Federation, on the day everything burns |
 
 ## The powers
 
 **The Swarm** is the biggest power in the sector, and the oldest fear: an insect hive mind that devours whole worlds. It doesn't talk and it doesn't stop. Every month the front is closer.
 
-**The Federation** is order, progress and an iron grip. It builds colonies, writes the laws and decides who counts as a citizen and who counts as a convict. It says it's the only wall still holding against the Swarm. It might even be right.
+**The Federation** is order, progress and an iron grip. It writes the laws and decides who counts as a citizen and who counts as a convict. It says it's the only wall still holding against the Swarm. It might even be right.
 
 **The Renegades** are a loose fleet of pirates, deserters and free captains who raid Federation shipping and call it liberation. Whether they're heroes or just better-armed criminals depends on who you ask.
 

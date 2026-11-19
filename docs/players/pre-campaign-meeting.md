@@ -4,11 +4,11 @@ One meeting, all players and the GM, **before anyone finishes a character sheet*
 
 ## Agenda
 
-1. **The pitch.** The GM recaps the premise: debtors in a company-town prison, and the day it burns. Read the [Player Primer](primer.md) beforehand.
+1. **The pitch.** The GM recaps the premise: debtors sentenced by the Federation, and the day everything burns. Read the [Player Primer](primer.md) beforehand.
 2. **Party building.** Pick roles so the party has no gaps, then pick characters that fill them.
-3. **Session Zero walkthrough.** Go through the document question by question, so everyone knows what they'll answer.
+3. **Forms walkthrough.** Go through the document question by question, so everyone knows what they'll answer.
 4. **Lines and veils.** Agree on what's off the table and what happens off-screen.
-5. **Schedule.** Book each player's solo session, then the first group session.
+5. **Ship playtest.** Book each player's solo session, then the first group session.
 
 ## Party building
 
@@ -21,14 +21,21 @@ Decide the **roles first**, then the characters. Nobody builds in isolation, and
 | **Frontline** | Holds the line, soaks hits, protects the others | Heavy armor, high HP, Athletics |
 | **Damage** | Ends fights quickly, at range or up close | Weapons, spells or tech built to kill |
 | **Support / healer** | Keeps the party standing between fights | Medicine, buffs, healing |
-| **Face** | Talks, lies, bargains and negotiates with the Administration, gangs and captains | Diplomacy, Deception, Intimidation |
+| **Face** | Talks, lies, bargains and negotiates with officials, gangs and captains | Diplomacy, Deception, Intimidation |
 | **Tech / hacker** | Cracks locks, rigs and cores. The campaign is about stolen code. | Computers, Crafting, Engineering |
 | **Scout / infiltrator** | Gets in and out unseen. Finds the trap before it finds you. | Stealth, Thievery, Perception |
+
+Antoine : Space renard, envoy **Support** **Face** **Range Damage** **Scout / infiltrator** 
+Dom : Akiton Ysoki Technomancer, **Tech / hacker**, **Range Damage**, **Heal**
+Pablo : Vesk Solarian **Frontline** **Damage**
+Will : Shirren Monk **Frontline** **Damage**
+
+
 
 Rules of thumb:
 
 - **One character can fill two roles.** A party of four can't hold seven separate specialists.
-- **Cover frontline, support, face and tech first.** The colony runs on talking, debt and data, so skills outside combat matter from day one.
+- **Cover frontline, support, face and tech first.** This campaign runs on talking, debt and data, so skills outside combat matter from day one.
 - **Overlap is fine, gaps are not.** Two damage dealers is fine. Zero healers means short rests get long.
 - **Starship roles can wait.** The ship arrives at the end of Act 1, so nobody needs to build for it yet. Claim a role now if you want to, or pick one up later.
 - **Roles are a starting point.** If a player wants something unusual, say so at the meeting, and we'll work out what the party is missing.
@@ -39,7 +46,7 @@ The party will steal a ship at the end of Act 1 and live on it afterward. Each s
 
 | Role | What it does | Typical skills and tools |
 |---|---|---|
-| **Pilot** | Flies the ship, runs from pursuit and gets it through a blockade | Piloting |
+| **Pilot** | Flies the ship, runs from pursuit and gets it through a blockade | Piloting | Antoine 
 | **Chief Engineer** | Keeps the ship running, patches damage mid-fight and reroutes power | Engineering, Crafting, Computers |
 | **Tactical Officer** | Fires the weapons and picks targets | Weapons, Perception, starship gunnery |
 | **Quartermaster** | Handles supplies, cargo, repairs on credit and the ship's finances. This crew starts the campaign in debt. | Society, Diplomacy, Crafting |
@@ -52,7 +59,7 @@ These come from the [Session Zero](session-zero.md#character-creation-notes) not
 
 - **Level 1**, standard Starfinder 2e creation.
 - **Independent.** No allies but may be friendly/ennemy
-- **Sentenced to the colony**, with a reason.
+- **Sentenced by the Federation**, with a reason.
 
 ### What to bring
 

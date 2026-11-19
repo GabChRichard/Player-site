@@ -51,7 +51,7 @@ A human empire that sits beyond the Veskarium. The two have been at war since th
 
 ### The Vast
 
-The wild frontier beyond Near Space. It has few laws and fewer maps, which is why the **Swarm** was able to hit **Suskillon** there before anyone could organize against it. It's where the shirren species escaped the hive mind in 83 AG.
+The wild frontier beyond Near Space. It has few laws and fewer maps. It's where the shirren species escaped the hive mind in 83 AG.
 
 *Mood:* Lawless and distant. Help is a long way off.
 
@@ -73,7 +73,7 @@ In this campaign, [Drift Engines work a little differently](homebrew.md#drift-en
 
 ### Federation space
 
-The territory the **Federation** has colonized, and it's the sector's best-organized military power. Its colonies are branded, contracted and heavily policed. Convicts and debtors are sent here to work off their sentences, in "reformatory cities" like the moon you started on.
+The territory the **Federation** controls, and it's the sector's best-organized military power. Its worlds are branded, contracted and heavily policed.
 
 *Mood:* Orderly on the surface, and not on the other side of it.
 

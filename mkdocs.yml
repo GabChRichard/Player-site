@@ -39,6 +39,9 @@ theme:
     - search.highlight
     - content.tabs.link
 
+hooks:
+  - hooks.py
+
 extra_css:
   - assets/stylesheets/extra.css
 
