@@ -70,7 +70,7 @@ nav:
       - Factions: players/factions.md
       - Galaxy: players/galaxy.md
       # - Pre-Campaign Meeting: players/pre-campaign-meeting.md
-      # - Player Form: players/form.md
+      - Player Form: players/form.md
       # - Session Zero: players/session-zero.md
       - Homebrew Rules: players/homebrew.md
   - License: license.md
